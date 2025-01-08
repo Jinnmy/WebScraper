@@ -6,7 +6,7 @@ yarn-error.log
 # Build output
 build/
 dist/
-public/
+
 
 # Environment files
 .env
